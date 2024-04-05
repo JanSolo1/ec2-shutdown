@@ -36,4 +36,4 @@ terraform.rc
 *.zip
 
 *.terragrunt-cache
-*.terraform.lock.hcl
+
